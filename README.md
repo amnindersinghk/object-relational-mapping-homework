@@ -27,14 +27,7 @@ The goal of this assignment was to create a back end for an ecommerce site using
 #### Step 8
 - Created walktrough demo video.
 
-#### Result
-- See Ecommerce Insomnia Preview here:
-- Preview: ![Object-Relational-Mapping](<Images/Screenshot 2024-01-20 at 10.10.50 PM.png>)
-- ![Object-Relational-Mapping](<Images/Screenshot 2024-01-20 at 10.11.15 PM.png>)
-- ![Object-Relational-Mapping](<Images/Screenshot 2024-01-20 at 10.11.29 PM.png>)
-- ![Object-Relational-Mapping](<Images/Screenshot 2024-01-20 at 9.45.56 PM.png>)
-- ![Object-Relational-Mapping](<Images/Screenshot 2024-01-20 at 9.46.13 PM.png>)
-- GitHub Link: (https://github.com/aqtagon/Object-Relational-Mapping-Homework)
-- Demo: https://www.youtube.com/watch?v=295pbwAk1Wc
+- GitHub Link: 
 
-Note: Got assistance from Cuitlahuac Hernandez from class and used chatgpt and google for questions.
+
+Note: Got assistance from Cuitlahuac Hernandez and Ahmed Danawi from class and used chatgpt and google for questions.
