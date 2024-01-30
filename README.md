@@ -24,8 +24,7 @@ The goal of this assignment was to create a back end for an ecommerce site using
 #### Step 7
 - Tested api routes in Insomnia to make sure CRUD operations were working.
 
-#### Step 8
-- Created walktrough demo video.
+
 
 - GitHub Link: https://github.com/amnindersinghk/object-relational-mapping-homework/tree/main
 
