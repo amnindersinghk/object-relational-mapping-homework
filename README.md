@@ -27,7 +27,7 @@ The goal of this assignment was to create a back end for an ecommerce site using
 #### Step 8
 - Created walktrough demo video.
 
-- GitHub Link: 
+- GitHub Link: https://github.com/amnindersinghk/object-relational-mapping-homework/tree/main
 
 
 Note: Got assistance from Cuitlahuac Hernandez and Ahmed Danawi from class and used chatgpt and google for questions.
